@@ -5,5 +5,5 @@ let isPalindrome = function(a) {
     })
 }
 
-
+console.log(check)
 console.log(isPalindrome('abba'))
