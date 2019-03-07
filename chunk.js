@@ -1,3 +1,4 @@
+// Divide array in chunk
 const chunk = function(array,size){
 
     let outputArray = []
