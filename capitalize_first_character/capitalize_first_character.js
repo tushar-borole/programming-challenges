@@ -7,8 +7,4 @@ const capitalize = function(string){
     return finalOutput
 
 }
-
-
-console.log(capitalize('this is the game'))//?
-
-
+capitalize('this is the game')//?

@@ -1,2 +1,4 @@
 # programming-challenges
-various programming challenges for developers
+This repository contains various programming challenges for developers
+
+[Capitalization of First character of string](capitalize_first_character)
