@@ -5,3 +5,4 @@ This repository contains various programming challenges for developers
 2. [Steps](steps)
 3. [Count vowel in given string](vowel)
 4. [Check string is palindrome or not](palindrome)
+5. [Fibonacci](fibonacci)
