@@ -11,3 +11,5 @@ This repository contains various programming challenges for developers
    - [Memoization approach](fibonacci/fibonacci_memoization.js)
 
 6. [Queue](queue)
+7. [Weave](weave)
+

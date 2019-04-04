@@ -1,7 +1,9 @@
 class Queue {
   constructor(data) {
     this.value = [];
-    this.value.push(data);
+    if (data) {
+      this.value.push(data);
+    }
   }
 
   add(value) {
@@ -14,7 +16,17 @@ class Queue {
     this.value.pop();
     return this.value;
   }
+
+  peek() {
+    return this.value[this.value.length - 1];
+  }
+
+  get() {
+    return this.value;
+  }
 }
+
+export default Queue;
 
 const queue = new Queue(0);
 queue.add(2);
@@ -24,3 +36,4 @@ queue.add(4);
 console.log(queue);
 queue.remove();
 console.log(queue);
+console.log(queue.peek());
