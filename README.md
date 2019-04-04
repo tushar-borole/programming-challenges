@@ -9,3 +9,5 @@ This repository contains various programming challenges for developers
    - [Itterative approach](fibonacci/fibonacci.js)
    - [Recurssive approach](fibonacci/fibonacci_recursion.js)
    - [Memoization approach](fibonacci/fibonacci_memoization.js)
+
+6. [Queue](queue)
