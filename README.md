@@ -9,7 +9,10 @@ This repository contains various programming challenges for developers
    - [Itterative approach](fibonacci/fibonacci.js)
    - [Recurssive approach](fibonacci/fibonacci_recursion.js)
    - [Memoization approach](fibonacci/fibonacci_memoization.js)
-
 6. [Queue](queue)
 7. [Weave](weave)
 
+
+# leetcode challenges
+
+1. [Unique email address](leetcode/unique_email_address.js) - https://leetcode.com/problems/unique-email-addresses
