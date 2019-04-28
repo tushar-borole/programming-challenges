@@ -99,12 +99,4 @@ class LinkedList {
     previous.next = new_node;
   }
 }
-
-const list = new LinkedList();
-list.insertFirst("First");
-list.insertLast("Second");
-list.insertLast("Third");
-list.insertLast("Fourth");
-list.insertAt("First_Second", 1);
-//list.removeAt(1);
-console.log(list);
+export default LinkedList;
